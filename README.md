@@ -1,4 +1,4 @@
-# Hi there, I'm Fakhir Arslan! 👋 
+# Hi there, I'm Fakhir Arslan!
 
 ### Senior Software Engineer | Next.js & NestJS Expert
 
@@ -6,14 +6,14 @@
 
 ---
 
-### 🚀 What I'm Up To
+### What I'm Up To
 * [cite_start]**Currently Leading:** Development at **Silverthreadlabs** for **Permuto Capital**, a decentralized finance (DeFi) platform built on the **Chia blockchain**[cite: 13, 16].
 * [cite_start]**Founder & Product Lead:** Building **[playbook.gg](https://playbook.gg)**, an esports tournament management platform focused on the local gaming community[cite: 72, 73, 89].
 * [cite_start]**Expertise:** Deep diving into **PostgreSQL** management and implementing **AI-assisted development workflows** to optimize project timelines[cite: 10].
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Frontend & UI
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant Design](https://img.shields.io/badge/-Ant%20Design-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
